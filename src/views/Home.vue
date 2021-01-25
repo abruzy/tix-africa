@@ -5,10 +5,10 @@
 
 <script>
 // import Pagination from '../components/Pagination.vue';
-import UserCard from "../components/UserCard.vue";
+import UserCard from '../components/UserCard.vue';
 
 export default {
-  name: "Home",
+  name: 'Home',
   components: {
     // Pagination,
     UserCard,
